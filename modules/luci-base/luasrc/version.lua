@@ -6,4 +6,4 @@ distname    = "Host System"
 distversion = "SDK"
 
 luciname    = "LuCI"
-luciversion = "SVN"
+luciversion = "beta"
