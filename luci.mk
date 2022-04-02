@@ -12,8 +12,8 @@ LUCI_DEFAULTS:=$(notdir $(wildcard ${CURDIR}/root/etc/uci-defaults/*))
 LUCI_PKGARCH?=$(if $(realpath src/Makefile),,all)
 LUCI_SECTION?=luci
 LUCI_CATEGORY?=LuCI
-LUCI_URL?=https://github.com/openwrt/luci
-LUCI_MAINTAINER?=OpenWrt LuCI community
+LUCI_URL?=https://github.com/SSEOS/luci
+LUCI_MAINTAINER?=SSEOS LuCI community
 
 # Language code titles
 LUCI_LANG.ar=العربية (Arabic)
